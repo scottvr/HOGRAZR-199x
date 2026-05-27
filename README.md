@@ -1,45 +1,51 @@
 ### [cont'd from page 78]
 
 ```
-1993 or or possibly as late as 1995, a video rental store was closing its doors. What they didn't
-sell at liquidation was tossed in a bin behind the retail stripmall.  In the bin was a rack of
-3.5" shareware games, with Commander Keen, Wolfenstein 3D, even the Doom 1.2 shareware was there,
-along with a couple of titles nobody had ever heard of. There was one curious disk with
+1993 or possibly as late as 1995, a video rental store was closing its doors.
+What they didn't sell at liquidation was tossed in a bin behind the retail
+stripmall.  In the bin was a rack of 3.5" shareware games, with Commander 
+Keen, Wolfenstein 3D, even the Doom 1.2 shareware was there, along with a
+couple of titles nobody had ever heard of. There was one curious disk with
 non-descriptive packaging.
 
-In the insert visible through the plastic packaging container (the kind you need X-Acto knives
-and pliers to open, and will almost always injure yourself or the product trying to open) it was
-labeled as "Hog Raiser", which brings to mind harmless fun in the form of some sort of farming
-game.. In fact, the lede below the title said "Frank Farmer. Make the farmer happy."  Which is a
-pretty odd and not really inviting or exciting, not enticing to make one want to play the game,
-but certainly causes a bit of curiosity.
+In the insert visible through the plastic packaging container (the kind you
+need X-Acto knives and pliers to open, and will almost always injure yourself
+or the product trying to open) it was labeled as "Hog Raiser", which brings to
+mind harmless fun in the form of some sort of farming game.. In fact, the lede
+below the title said "Frank Farmer. Make the farmer happy."  Which is a pretty
+odd and not really inviting or exciting, not enticing to make one want to play
+the game, but certainly causes a bit of curiosity.
 
-Upon cutting through the packaging to get at the paper-labeled diskette itself you notice that
-here the title is printed differently. The title on the insert and the title on the disk would
-be pronounced the same, but conjure a completely different image in the mind.  Instead of "Hog
-Raiser", here it said "hograzor (fatback)" which at first passes by as just a weird misprint due
-to the similarity to some term you know, perhaps "razorback" but as it echoes in your head, it
-begins to be a little unsettling. "Hograzor fatback?" What the heck does that mean? And even
-more so comparing and contrasting the ostensible title of "hograiser" and its tagline "make the
-farmer happy". I mean, what the hell is in store for the player? That copy was damaged (during
-opening I am sure) so I never got to experience it myself.
+Upon cutting through the packaging to get at the paper-labeled diskette itself
+you notice that here the title is printed differently. The title on the insert
+and the title on the disk would be pronounced the same, but conjure a completely
+different image in the mind.  Instead of "Hog Raiser", here it said "hograzor
+(fatback)" which at first passes by as just a weird misprint due to the similarity
+to some term you know, perhaps "razorback" but as it echoes in your head, it
+begins to be a little unsettling. "Hograzor fatback?" What the heck does that
+mean? And even more so comparing and contrasting the ostensible title of "hograiser"
+and its tagline "make the farmer happy". I mean, what the hell is in store for
+the player? That copy was damaged (during opening I am sure) so I never got to
+experience it myself.
 
-All I know from reports from the few who did play it in its day is that the game would be
-"finished" in about 4 minutes, though notice nobody said it was "easy" or that they had "won"
-in 4 minutes exactly; only that they were finished.  It is said that nobody ever played it a
-second time; once was apparently enough, and no copies have evidently survived.  One player
-mentioned that curiously, the silly almost cartoonish style of the graphics (in vga mode X
-no doubt) contrasted greatly with the score, which was a song described as a "late 80's/early
-90's club-type track", both danceable but somehow menacing, complete with samples from 1950's
-education film narration and possibly slaughterhouse noises; it started when the game started
-and ended st the end of the game.  This was possible because the game was a small number of time
-trials (fleeing, obstacle course, whackamole, skeet, etc type mini games. I have heard that your
-character was a small "meat-type hog" (whatever that means) but nobody really liked to talk
-about it.
+All I know from reports from the few who did play it in its day is that the game
+would be "finished" in about 4 minutes, though notice nobody said it was "easy"
+or that they had "won" in 4 minutes exactly; only that they were finished.  It
+is said that nobody ever played it a second time; once was apparently enough,
+and no copies have evidently survived.  One player mentioned that curiously, 
+the silly almost cartoonish style of the graphics (in vga mode X no doubt)
+contrasted greatly with the score, which was a song described as a "late 80's/early
+90's club-type track", both danceable but somehow menacing, complete with samples
+from 1950's education film narration and possibly slaughterhouse noises; it started
+when the game started and ended st the end of the game.  This was possible because
+the game was a small number of time trials (fleeing, obstacle course, whackamole,
+skeet, etc type mini games. I have heard that your character was a small "meat-type
+hog" (whatever that means) but nobody really liked to talk about it.
 
-You are one of the few who I was able to find that say they actually played it. Rumor has it you
-even went back, possibly more than once, to replay it.  I am here to ask you to describe, in as
-much descriptive details as possible: what was in that game? Fill in the details I am lacking. 
+You are one of the few who I was able to find that say they actually played it.
+Rumor has it you even went back, possibly more than once, to replay it.  I am
+here to ask you to describe, in as much descriptive details as possible: what
+was in that game? Fill in the details I am lacking. 
 ```
 
 >Nobody remembers the title screen correctly.
