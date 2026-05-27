@@ -61,7 +61,7 @@ FRANK FARMER   MAKE THE FARMER HAPPY
 ```
 >not even punctuated like a real sentence. Just hovering there while the music played.
 >
->And the music... Well, as with the entire game and the varying reports of labeling - and I have no doubt they are all true, even if nobody's recollection exactly  matches reality. The rumors and confusion came from a real place, a real tangible thing. Or things. I will tell you aboue the version of the game I played - I had in  my possession for some time, as best I can recall. OK. So the music...
+>And the music... Well, as with the entire game and the varying reports of labeling - and I have no doubt they are all true, even if nobody's recollection exactly  matches reality. The rumors and confusion came from a real place, a real tangible thing. Or things. I will tell you about the version of the game I played - I had in  my possession for some time, as best I can recall. OK. So the music...
 >
 >People saying "late 80s club music" undersell how wrong it felt. It had that cheap Roland groovebox energy, sure — synthetic bass stabs, gated snares, a four-on-the-floor kick — but under it was something else. Metallic clanging loops. Rhythmic wet sounds that only later, once you knew more about industrial slaughterhouses, became recognizable. Every thirty seconds or so a calm educational-film narrator would cut in through static:
 >
