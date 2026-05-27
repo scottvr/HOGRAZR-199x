@@ -1,7 +1,7 @@
 ### [cont'd from page 78]
 
 ```
-In 1993 or 1994, or possiblhy 1995, a video rental store was closing its doors. What they didn't
+1993 or or possibly as late as 1995, a video rental store was closing its doors. What they didn't
 sell at liquidation was tossed in a bin behind the retail stripmall.  In the bin was a rack of
 3.5" shareware games, with Commander Keen, Wolfenstein 3D, even the Doom 1.2 shareware was there,
 along with a couple of titles nobody had ever heard of. There was one curious disk with
