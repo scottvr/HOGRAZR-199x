@@ -21,8 +21,8 @@ Raiser", here it said "hograzor (fatback)" which at first passes by as just a we
 to the similarity to some term you know, perhaps "razorback" but as it echoes in your head, it
 begins to be a little unsettling. "Hograzor fatback?" What the heck does that mean? And even
 more so comparing and contrasting the ostensible title of "hograiser" and its tagline "make the
-farmer" happy. What the hell is in store for the player? That copy was damaged (during opening
-I am sure) so I never got to experience it myself.
+farmer happy". I mean, what the hell is in store for the player? That copy was damaged (during
+opening I am sure) so I never got to experience it myself.
 
 All I know from reports from the few who did play it in its day is that the game would be
 "finished" in about 4 minutes, though notice nobody said it was "easy" or that they had "won"
