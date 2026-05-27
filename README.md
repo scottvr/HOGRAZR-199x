@@ -6,7 +6,7 @@ What they didn't sell at liquidation was tossed in a bin behind the retail
 stripmall.  In the bin was a rack of 3.5" shareware games, with Commander 
 Keen, Wolfenstein 3D, even the Doom 1.2 shareware was there, along with a
 couple of titles nobody had ever heard of. There was one curious disk with
-non-descriptive packaging.
+non-descript packaging.
 
 In the insert visible through the plastic packaging container (the kind you
 need X-Acto knives and pliers to open, and will almost always injure yourself
