@@ -12,7 +12,7 @@ In the insert visible through the plastic packaging container (the kind you
 need X-Acto knives and pliers to open, and will almost always injure yourself
 or the product trying to open) it was labeled as "Hog Raiser", which brings to
 mind harmless fun in the form of some sort of farming game.. In fact, the lede
-below the title said "Frank Farmer. Make the farmer happy."  Which is a pretty
+below the title said "Frank Farmer. Make the farmer happy."  Which is pretty
 odd and not really inviting or exciting, not enticing to make one want to play
 the game, but certainly causes a bit of curiosity.
 
