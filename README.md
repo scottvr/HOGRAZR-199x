@@ -37,7 +37,7 @@ the silly almost cartoonish style of the graphics (in vga mode X no doubt)
 contrasted greatly with the score, which was a song described as a "late 80's/early
 90's club-type track", both danceable but somehow menacing, complete with samples
 from 1950's education film narration and possibly slaughterhouse noises; it started
-when the game started and ended st the end of the game.  This was possible because
+when the game started and ended at the end of the game.  This was possible because
 the game was a small number of time trials (fleeing, obstacle course, whackamole,
 skeet, etc type mini games. I have heard that your character was a small "meat-type
 hog" (whatever that means) but nobody really liked to talk about it.
