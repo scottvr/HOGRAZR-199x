@@ -1,5 +1,8 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "./",
+  base: "/HOGRAZR-199x/",
+  build: {
+    outDir: 'docs',
+  },
 });
