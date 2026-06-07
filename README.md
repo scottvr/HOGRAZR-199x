@@ -12,7 +12,7 @@ In the insert visible through the plastic packaging container (the kind you
 need X-Acto knives and pliers to open, and will almost always injure yourself
 or the product trying to open) it was labeled as "Hog Raiser", which brings to
 mind harmless fun in the form of some sort of farming game.. In fact, the lede
-below the title said "Frank Farmer. Make the farmer happy."  Which is pretty
+below the title said "Frank Farmer. Make the farmer happy."  Which is a pretty
 odd and not really inviting or exciting, not enticing to make one want to play
 the game, but certainly causes a bit of curiosity.
 
@@ -37,7 +37,7 @@ the silly almost cartoonish style of the graphics (in vga mode X no doubt)
 contrasted greatly with the score, which was a song described as a "late 80's/early
 90's club-type track", both danceable but somehow menacing, complete with samples
 from 1950's education film narration and possibly slaughterhouse noises; it started
-when the game started and ended at the end of the game.  This was possible because
+when the game started and ended st the end of the game.  This was possible because
 the game was a small number of time trials (fleeing, obstacle course, whackamole,
 skeet, etc type mini games. I have heard that your character was a small "meat-type
 hog" (whatever that means) but nobody really liked to talk about it.
@@ -61,9 +61,9 @@ FRANK FARMER   MAKE THE FARMER HAPPY
 ```
 >not even punctuated like a real sentence. Just hovering there while the music played.
 >
->And the music... Well, as with the entire game and the varying reports of labeling - and I have no doubt they are all true, even if nobody's recollection exactly  matches reality. The rumors and confusion came from a real place, a real tangible thing. Or things. I will tell you about the version of the game I played - the full, registered version, not just that shareware level I had in  my possession for some time, as best I can recall. OK. So the music...
+>And the music... Well, as with the entire game and the varying reports of labeling - and I have no doubt they are all true, even if nobody's recollection exactly  matches reality. The rumors and confusion came from a real place, a real tangible thing. Or things. I will tell you about the version of the game I played - I had in  my possession for some time, as best I can recall. OK. So the music...
 >
->People saying "late 80s club music" undersell how wrong it felt. It had that cheap Roland groovebox energy, sure — synthetic bass stabs, gated snares, a strange syncopated beat with hi-hats that foreshadowed subgenres of hip-hop that would come decades later — but under it was something else. Metallic clanging loops. Rhythmic wet sounds that only later, once you knew more about industrial slaughterhouses, became recognizable. Every thirty seconds or so a calm educational-film narrator would cut in through static:
+>People saying "late 80s club music" undersell how wrong it felt. It had that cheap Roland groovebox energy, sure — synthetic bass stabs, gated snares, a four-on-the-floor kick — but under it was something else. Metallic clanging loops. Rhythmic wet sounds that only later, once you knew more about industrial slaughterhouses, became recognizable. Every thirty seconds or so a calm educational-film narrator would cut in through static:
 >
 `Proper livestock processing ensures maximum yield.`
 >
@@ -247,6 +247,3 @@ C:\HOGRAZR>
 >The game was shareware.
 >
 >Meaning somebody expected people to *register* it.
-
-
-[HOGRAZR](http://blehg.paperclipmaximizer.ai/HOGRAZR-199x/)
